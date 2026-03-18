@@ -16,7 +16,7 @@ Automated setup script for configuring a new development machine.
 ## Quick Install
 
 Run:
-curl -s https://<GITURL>/main/bootstrap.sh | bash
+curl -s [https://<GITURL>/main/bootstrap.sh](https://github.com/sm-28/LinuxMintDeveloperSetup/blob/main/bootstrap.sh) | bash
 
 
 ---
